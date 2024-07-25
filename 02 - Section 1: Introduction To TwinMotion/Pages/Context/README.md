@@ -1,0 +1,7 @@
+# Context
+
+<p><img src="https://vertexschool.instructure.com/courses/329/files/23290/preview?verifier=z1T7x2o9BVs8WIYyb4uMBICHLQDcSRqHI7vqWl3m" alt="Artboard 16.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/329/files/23290" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/329/files/23291/preview?verifier=ovAJfJCGBUhjuQbt5VBjhazSadevacv97wF1pIc9" alt="Artboard 17.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/329/files/23291" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/329/files/23292/preview?verifier=2vbLHb3vAE37WmZRuSdg2kI3UfXDVpb5S0kKg2fJ" alt="Artboard 18.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/329/files/23292" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/329/files/23293/preview?verifier=6t4UiJ1t7yxc3TiFRUxCr4ndiJuCSfPu7rdiJLS1" alt="Artboard 19.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/329/files/23293" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/329/files/23294/preview?verifier=bCyMW66AMj7n6JyKmvnHYoRIBQNbC7gM5ZKxMmhG" alt="Artboard 20.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/329/files/23294" data-api-returntype="File"></p>
