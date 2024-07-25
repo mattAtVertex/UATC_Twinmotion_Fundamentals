@@ -1,0 +1,5 @@
+# Linking and Importing Considerations
+
+<p><img src="https://vertexschool.instructure.com/courses/329/files/23282/preview?verifier=4MUu3pMM9mSVNjeIwHGV6PFZRfiWRl8cagFsrFeg" alt="Artboard 8.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/329/files/23282" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/329/files/23283/preview?verifier=g5shPLBSgc2xS81Xv3JRLpL4u5B1EqCUfm6OCHXh" alt="Artboard 9.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/329/files/23283" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/329/files/23284/preview?verifier=hiB2CojbOpxzkdfhlG8NhtKYme1AfIX5Mjt6DALE" alt="Artboard 10.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/329/files/23284" data-api-returntype="File"></p>
