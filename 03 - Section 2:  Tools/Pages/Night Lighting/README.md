@@ -1,0 +1,5 @@
+# Night Lighting
+
+<p><img src="https://vertexschool.instructure.com/courses/329/files/23315/preview?verifier=HgjFWVPr07ox27GJRiT1w4XyPgBUnvxVZkU6yUPr" alt="Artboard 11.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/329/files/23315" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/329/files/23316/preview?verifier=Vm27MzqJo4Pi6OTLOGc39rjWWgfm6zK2D5vO4rc1" alt="Artboard 12.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/329/files/23316" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/329/files/23317/preview?verifier=K8go8RIjrCiwtfmwsGvj4KZ0b8d7D3vCr41fNbOi" alt="Artboard 13.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/329/files/23317" data-api-returntype="File"></p>
