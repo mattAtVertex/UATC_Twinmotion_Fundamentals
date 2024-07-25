@@ -1,0 +1,7 @@
+# Vegetation
+
+<p><img src="https://vertexschool.instructure.com/courses/329/files/23301/preview?verifier=Y6TlA1AL2BFBstqFWvclIjuBqhjy0P6dy4cYjaZs" alt="Artboard 26.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/329/files/23301" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/329/files/23302/preview?verifier=F8MM0BFAeTZ7OXPbxac6H10qjqukGS48XWOHDAi1" alt="Artboard 27.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/329/files/23302" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/329/files/23303/preview?verifier=8eTPS59XHrL5cVgNLmmi6xoSCgXKdROIhcD8dwIG" alt="Artboard 28.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/329/files/23303" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/329/files/23304/preview?verifier=2WS3HIFdNpnfpd9dPniRTqhddZscXQ75bJwF62KW" alt="Artboard 29.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/329/files/23304" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/329/files/23305/preview?verifier=vqRO3uy6J0oYMrzyJGnIOAa5WQfe3AWEFMEbScKg" alt="Artboard 30.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/329/files/23305" data-api-returntype="File"></p>
